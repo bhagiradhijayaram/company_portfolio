@@ -23,6 +23,11 @@ Clone the repository and open `index.html` in your web browser to view the site 
 ![Screenshot (259)](https://github.com/user-attachments/assets/569b489c-c093-4c18-83a0-b9a5edef03fd)
 
 
+## Live Demo
+
+https://virajtechnologies.netlify.app/
+
+
 
 ```bash
 https://github.com/bhagiradhijayaram/company_portfolio.git
