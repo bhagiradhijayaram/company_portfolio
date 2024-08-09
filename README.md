@@ -16,6 +16,14 @@ This repository contains the code for a fully responsive static company portfoli
 ## Installation
 Clone the repository and open `index.html` in your web browser to view the site locally.
 
+## Preview
+
+![Screenshot (258)](https://github.com/user-attachments/assets/43f3e617-7413-43bb-8e75-67cf6ae21f83)
+
+![Screenshot (259)](https://github.com/user-attachments/assets/569b489c-c093-4c18-83a0-b9a5edef03fd)
+
+
+
 ```bash
 https://github.com/bhagiradhijayaram/company_portfolio.git
 open index.html
