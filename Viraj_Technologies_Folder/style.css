@@ -1,0 +1,331 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+#navItem1 {
+    color: black;
+    font-size: 18px;
+    margin-right: 10px;
+}
+#navItem2 {
+    color: black;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+#navItem3 {
+    color: black;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+#navItem4 {
+    color: black;
+    font-size: 18px;
+    margin-right: 10px;
+}
+#navItem1:hover, #navItem2:hover, #navItem3:hover, #navItem4:hover{
+    color: blue;
+}
+.dropdown-item{
+    color: black;
+    font-size: 18px;   
+}
+.contact-btn{
+    background-color: darkblue;
+    color: #ffffff;
+    padding: 15px;
+    width: 150px;
+    border: none;
+    font-size: 20px;
+}
+.contact-btn:hover{
+    background-color: blue;
+}
+.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* ---------------------------------------- Nav Section End ---------------------------------------------*/
+
+.banner-section{
+    margin-top: 200px;
+}
+.heading{
+    color: blue;
+}
+.banner-heading{
+    font-size: 65px;
+    font-weight: 700;
+}
+.banner-description{
+    font-size: 18px;
+}
+.get-started-btn{
+    background-color: blue;
+    color: #ffffff;
+    padding: 15px;
+    width: 180px;
+    border: none;
+    font-size: 20px;
+}
+.get-started-btn:hover{
+    background-color: darkblue;
+}
+
+/* ---------------------------------------- Banner Section End ---------------------------------------------*/
+
+.service-section{
+    background-color: ghostwhite;
+}
+.service-card{
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+}
+.service-title{
+    font-size: 24px;
+}
+.service-description{
+    font-size: 15px;
+}
+.service-icon-1{
+    background-color: violet;
+    width: 100px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.service-icon-2{
+    background-color: aquamarine;
+    width: 100px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.service-icon-3{
+    background-color: orange;
+    width: 100px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.service-icon-4{
+    background-color: skyblue;
+    width: 100px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.service-icon-5{
+    background-color: pink;
+    width: 100px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.service-icon-6{
+    background-color: black;
+    width: 100px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.read-more{
+    font-size: 18px;
+    color: black;
+}
+.read-more:hover{
+    color: #ffffff;
+}
+.service-card:hover{
+    color: white;
+    background-color: skyblue;
+}
+
+/* ---------------------------------------- Service Section End ---------------------------------------------*/
+
+
+.about-description{
+    font-size: 15px;
+}
+
+.footer-section{
+    background-color: rgb(238, 237, 237);
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+.footer-description{
+    font-size: 18px;
+    color: gray;
+}
+.icon-bg{
+    background-color: rgb(55, 55, 231);
+    color: #ffffff;
+    padding: 18px;
+    border-radius: 100%;
+    font-size: 20px;
+}
+.link-item{
+    color: black;
+    font-size: 18px
+}
+.link-item:hover{
+    color: blue;
+}
+.footer-copy-right{
+    font-size: 18px;
+}
+
+
+/* ------- About Us -------- */
+
+.sub-banner-section{
+    margin-top: 120px;
+}
+.sub-banner-image{
+    background-image: url('sub-banner-image.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 30vh;
+    opacity: 0.8;
+}
+.sub-banner-heading{
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 700;
+}
+.page-anchors{
+    font-size: 20px;
+    color: #ffffff;
+}
+.text-primary{
+    font-size: 20px;
+}
+.about-details{
+    font-size: 18px;
+    color: gray;
+}
+.sub-about-heading:hover{
+    color: blue;
+}
+.underline{
+    height: 5px;
+    border-radius: 40px;
+    width: 15%;
+}
+
+/* -------- Contact Us -------- */
+
+.contact-details{
+    font-size: 20px;
+    color: gray;
+}
+.contact_form{
+    background-color: #ffffff;
+    padding: 40px;
+}
+.submit-btn{
+    height: 60px;
+    font-size: 20px;
+}
+.input-field {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 16px;
+    height: 50px;
+    background-color: rgb(242, 238, 238);
+    transition: all 0.3s ease;
+    font-size: 20px;
+  }
+  .text-area{
+    background-color: rgb(242, 238, 238);
+  }
+  
+  /* Styling for the input fields when focused */
+  .input-field:focus, .text-area:focus {
+    border-color: skyblue;
+    box-shadow: 0 0 7px skyblue;
+    outline: none;
+  }
+  .input-label{
+    font-size: 20px;
+  }
+
+  /* ------ service section -------- */
+
+.service-1{
+    background-image: url('software.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-2{
+    background-image: url('webdevelopment.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-3{
+    background-image: url('ecommerce.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-4{
+    background-image: url('product.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-5{
+    background-image: url('app.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-6{
+    background-image: url('Testing.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-7{
+    background-image: url('ui.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-8{
+    background-image: url('digital.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-9{
+    background-image: url('brand.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.content{
+    position: relative;
+    top: 90%;
+    background-color: white;
+    width: 70%;
+    padding: 10px;
+    padding-top: 20px;
+}
+.service-name{
+    font-size: 20px;
+    color: black;
+}
+.content:hover, .service-name:hover{
+    background-color: blue;
+    color: #ffffff;
+}
